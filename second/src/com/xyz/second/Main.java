@@ -83,7 +83,7 @@ public class Main {
 	
 	  @AfterMethod
 	  public void quit() {
-//		  driver.quit(); 
+	  driver.quit(); 
 		  }
 	 
 	 
